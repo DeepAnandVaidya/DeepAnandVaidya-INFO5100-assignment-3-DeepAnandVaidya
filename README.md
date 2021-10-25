@@ -1,4 +1,4 @@
-# DeepAnandVaidya-INFO5100-assignment-3-DeepAnandVaidya
+# DeepAnandVaidya-INFO5100-assignment-3
 
 ## Deliverables:
 
